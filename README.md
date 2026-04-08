@@ -17,7 +17,7 @@ Please feel free to ask questions in the main [CollectionBuilder discussion foru
 
 **Note:** 
 Since CollectionBuilder-GH uses [GitHub Pages](https://pages.github.com/), it is only suitable for small collections, with lower resolution images. 
-GitHub repositories are limited to 1GB.
+GitHub repositories are limited to 1GB .
 For larger collections or those that require more customization, check out the [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv) template.
 
 ## CollectionBuilder-GH Quick Tutorial
